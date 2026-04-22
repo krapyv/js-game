@@ -31,8 +31,8 @@ open index.html
 ```
 ## Tech
 HTML5 Canvas
+
 Vanilla JS
 
 CSS3
 
-Status
