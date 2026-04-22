@@ -29,7 +29,7 @@ git clone https://github.com/krapyv/js-game.git
 cd js-game
 open index.html
 ```
-Tech
+## Tech
 HTML5 Canvas
 Vanilla JS
 
